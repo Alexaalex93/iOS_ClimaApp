@@ -9,9 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>WeatherInfoKit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>WeatherWidget.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>8BAB94B11E793C900045C2F5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8BAB94CB1E7947E00045C2F5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>8BDC07191E72966B00C54C00</key>
 		<dict>
 			<key>primary</key>
